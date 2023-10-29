@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0E21A0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EC53B0&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;My+name+is+Gabriel+Leal;I'm+25+years+old;I'm+from+Brazil;Self-taught+BackEnd+Junior+Developer;Object-oriented+programming+Passionate;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ef3e87&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!;My+name+is+Gabriel+Leal;I'm+25+years+old;I'm+from+Brazil;Self-taught+BackEnd+Junior+Developer;Object-oriented+programming+Passionate;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lealmarquesf&bg_color=0E21A0&color=EC53B0&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lealmarquesf&bg_color=141321&color=EC53B0&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lealmarquesf&show_icons=true&count_private=true&hide_border=true&title_color=EC53B0&icon_color=4D2DB7&text_color=9D44C0&bg_color=0E21A0" alt="Gabriel Leal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealmarquesf&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lealmarquesf&show_icons=true&count_private=true&hide_border=true&title_color=ef3e87&icon_color=eed045&text_color=a8fdf6&bg_color=141321" alt="Gabriel Leal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealmarquesf&layout=compact&hide_border=true&title_color=ef3e87&text_color=a8fdf6&bg_color=141321" />
 </div>
 
 <p align="center">
@@ -28,4 +28,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EC53B0&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=141321&height=120&section=footer"/>
